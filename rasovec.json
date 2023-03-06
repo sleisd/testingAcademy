@@ -1,0 +1,11 @@
+{
+  "jmeno" : "Petr Rašovec",
+  "vek" : 39,
+  "jestliMateKočku" : true,
+  "seznamKoníčků" : ["fitnes", "animals", "play on qiutar", "music"],
+  "alergie" : null,
+  "kontaktníÚdaje" : {
+    "telefon" : "111 222 333",
+    "mail" : "p.rasovec@gmail.com"
+  }
+}
