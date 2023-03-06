@@ -1,0 +1,12 @@
+{
+  "name" : "Pepa Koníček",
+  "age" : 33,
+  "contactInfo" : {
+    "phone" : 776345678,
+    "mail" : "konicek@hotmail.com",
+    "city" : "Mimoň"
+  },
+  "hobbies" : ["ski", "dogs" ,"mountains"],
+  "doIhaveCat" : true,
+  "allergies" : null
+}

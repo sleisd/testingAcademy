@@ -1,0 +1,12 @@
+{
+  "jmeno": "Lucka",
+  "vek": 28,
+  "jestliMateKocku": true,
+  "seznamKonicku": ["kocky","videohry","cestovani"],
+  "alergie": null,
+  "kontaktniUdaje": {
+    "telefon": 777000777,
+    "email":"kocicka@gmail.com"
+  }
+}
+

@@ -1,0 +1,11 @@
+{
+    "Jméno": "text",
+    "Věk": 42,
+    "jestliMáteKočku": true,
+    "seznamKoníčků": ["kolo", "turistika", "plavání"],
+    "alergie": null,
+    "kontaktníÚdaje": {
+      "telefon": "123456789",
+      "mail": "example@example.com"
+    }
+  }
