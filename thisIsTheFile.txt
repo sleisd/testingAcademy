@@ -1,0 +1,3 @@
+Hello and welcome to the Git world!
+
+Here is the file you should find.
