@@ -1,0 +1,12 @@
+{
+  'name': 'Petr Novák',
+  'age': 18,
+  'cat': true,
+  'hobbies': ['swimming','cooking','ice skating'],
+  'allergies':  null,
+  'contact information': {
+    'adress': 'Moravská 999, Brno, 77540, Czech Republic',
+    'phone number': '777 000 111',
+    'e-mail adress': 'p.novak@seznam.cz'
+  }
+}
